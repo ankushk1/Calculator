@@ -1,0 +1,60 @@
+#container {
+    height: 365px;
+    width: 400px;
+    margin: 100px auto;
+    background-color: rgb(253, 248, 248);
+    border: black;
+}
+
+#header {
+    height: 50px;
+    background-color: rgb(13, 97, 112);
+    color: rgb(252, 249, 249);
+}
+
+#header p {
+    position: absolute;
+    margin-top: 8px;
+    font-size: 25px;
+    margin-left: 3cm;
+}
+
+#screen {
+    margin: 5px 5px 0px 5px;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+}
+
+#data {
+    height: 30px;
+}
+
+#previous {
+    float: right;
+    color: rgb(199, 199, 194);
+}
+
+#result {
+    height: 40px;
+    float: right;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button {
+    width: 95px;
+    height: 75px;
+    font-size: 20px;
+    background-color: rgb(183, 197, 194);
+}
+
+.button:hover {
+    background-color: rgb(211, 98, 33);
+    color: white;
+}
+
+.symbol {
+    background-color: rgb(62, 82, 173);
+    color: white;
+}
